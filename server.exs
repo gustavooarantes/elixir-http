@@ -27,5 +27,5 @@ end
 
 IO.puts("Server running on http://localhost:4000")
 
-# gotta keep this shit runnign lol
+# gotta keep this shit running lol
 :timer.sleep(:infinity)
